@@ -1,0 +1,68 @@
+.card{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+margin : 20px;
+text-align: center;
+background-color: pink;
+border-radius: 20px;
+display: inline-block;
+}
+
+.name_text{
+color:yellow;
+transform:rotate(-1deg)
+}
+
+.card img{
+border-radius: 8px 8px 0 0 0;
+margin: 10px;
+}
+.card-container {
+padding: 2px 16px;
+}
+
+.add_cart{
+color:red;
+border-radius: 10px;
+margin: 10px;
+}
+
+.inputter{
+border-radius:10px;
+}
+
+.publish{
+color:blue;
+border-radius:10px;
+}
+
+.cost{
+color:red;
+}
+
+.push_message{
+color:yellow;
+transform: rotate(4deg)
+
+}
+
+body{
+background-color:purple
+}
+
+.category{
+color:pink;
+background-color:black;
+box-shadow:20px 5px;
+border-radius:5px;
+}
+
+.category_container{
+display:flex;
+justify-content:center;
+background-color:grey;
+border-radius:5px
+}
+
+.category{
+margin:20px
+}
